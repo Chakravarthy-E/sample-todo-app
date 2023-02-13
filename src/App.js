@@ -23,7 +23,7 @@ const App = () => {
       <center>
         <div className="card">
           <div className="card-body">
-            <h5 className="card-title">Todo Management App</h5>
+            <h2 className="card-title">Todo Management App</h2>
             <form onSubmit={submitHandler}>
               <input
                 type="text"
